@@ -18,7 +18,5 @@ The project implements Dijkstra's algorithm to find the shortest path within the
 
 **Screenshots:**
 
-![Screenshot (1)](https://github.com/yourusername/quickest-path-project/assets/screenshot1.png)
-![Screenshot (2)](https://github.com/yourusername/quickest-path-project/assets/screenshot2.png)
-
-Include screenshots showcasing the project's interface and visualization capabilities to provide a visual representation of the solution.
+![Screenshot (157)](https://github.com/anilrai4001/Fastest-Route-Project/assets/79553966/84623064-3087-49de-b1a7-8d3de8d260c9)
+![Screenshot (158)](https://github.com/anilrai4001/Fastest-Route-Project/assets/79553966/22503d10-8989-464c-9a86-2b1b3a37711a)
